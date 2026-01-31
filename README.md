@@ -74,9 +74,9 @@ School
 └── Operational Unit
 └── Operational Role
 └── Non-Academic Staff
-```
 
 ![Alt ERD](https://raw.githubusercontent.com/MR-RITZY/FIP_Deliverable_2_Data_Schema_And_ERD/main/schooling_system_db_erd.png
+```
 ---
 
 ## 🔗 Many-to-Many Relationships
