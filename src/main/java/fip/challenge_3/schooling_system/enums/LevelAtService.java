@@ -1,4 +1,4 @@
-package fip.challenge_2.database_schema.models;
+package fip.challenge_3.schooling_system.enums;
 
 public enum LevelAtService {
     seniorStaff("seniorStaff"),

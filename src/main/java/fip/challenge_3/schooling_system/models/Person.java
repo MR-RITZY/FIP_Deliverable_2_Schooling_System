@@ -1,5 +1,6 @@
-package fip.challenge_2.database_schema.models;
+package fip.challenge_3.schooling_system.models;
 
+import fip.challenge_3.schooling_system.enums.Gender;
 import jakarta.persistence.*;
 import lombok.Getter;
 

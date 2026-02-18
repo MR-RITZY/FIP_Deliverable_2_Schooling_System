@@ -1,4 +1,4 @@
-package fip.challenge_2.database_schema.models;
+package fip.challenge_3.schooling_system.models;
 
 
 import jakarta.persistence.*;
@@ -7,7 +7,6 @@ import lombok.NoArgsConstructor;
 import lombok.Setter;
 
 import java.util.List;
-import java.util.Set;
 
 @Entity
 @Getter

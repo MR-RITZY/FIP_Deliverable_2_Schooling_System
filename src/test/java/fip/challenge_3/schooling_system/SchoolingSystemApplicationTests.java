@@ -1,10 +1,10 @@
-package fip.challenge_2.database_schema;
+package fip.challenge_3.schooling_system;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DatabaseSchemaApplicationTests {
+class SchoolingSystemApplicationTests {
 
     @Test
     void contextLoads() {
